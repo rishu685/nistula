@@ -1,0 +1,29 @@
+{
+  "name": "nistula-guest-message-handler",
+  "version": "1.0.0",
+  "description": "Backend system for receiving and responding to guest messages using Claude AI",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js",
+    "test": "node test_webhook.js"
+  },
+  "keywords": [
+    "nistula",
+    "guest-messages",
+    "webhook",
+    "claude-ai"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.3.1",
+    "uuid": "^9.0.1",
+    "@anthropic-ai/sdk": "^0.24.3",
+    "pg": "^8.11.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
