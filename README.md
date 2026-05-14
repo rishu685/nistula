@@ -351,11 +351,6 @@ For questions during the assessment, refer to:
 2. `schema.sql` for database design rationale
 3. `thinking.md` for Part 3 scenario analysis
 4. Code comments in `src/main.py` for implementation details
-
 ---
 
-## License
 
-This is a private assessment project. Not for public distribution.
-
-Created for Nistula Technical Assessment, May 2026.
