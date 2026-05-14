@@ -377,7 +377,7 @@ node verify_features.js      # Verify all features
 
 ## NOTES
 
-**API Key Status:** The provided Claude API key (_9Uw3LshbqhBxemByLS8WNvbUTCXEEhFP9xAawIwFLcn_zzyqV7CnbmqHiPo6-lgJZ3BQ-K47v9AAA) has insufficient credits.
+**API Key Status:** The provided Claude API key has insufficient credits.
 
 **Impact:** All features are implemented and verified. The only issue is insufficient API credits to complete the full end-to-end test with Claude replies. The system is production-ready.
 
